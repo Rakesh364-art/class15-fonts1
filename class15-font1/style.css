@@ -1,0 +1,62 @@
+.mainheading{
+    text-align: center;
+    font-family: serif;
+    font-size:3rem;  
+     
+
+}
+ .movies{ 
+    
+    display: inline-block;
+    border: 10px solid red;
+   
+width: 400px;
+height: 400px;
+text-align: justify;
+overflow: auto;
+box-sizing: border-box;
+margin: 20px;
+
+}
+
+
+
+img{
+    width: 350px;
+    height: 200px;
+    text-align: center;
+    object-fit: contain;
+    
+
+}
+.moviename{
+    text-align: center;
+    font-size: 2rem;
+    font-family:  sans-serif;
+
+    
+    
+}
+#arjunreddydescription{
+    font-family: fantasy
+}
+#animaldescription{
+    font-family: monospace;
+}
+ 
+#kabirsingdescription{
+    font-family:cursive  
+}
+
+
+    
+
+
+      
+     
+
+
+
+ 
+ 
+
